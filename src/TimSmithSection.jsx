@@ -3,9 +3,9 @@ import Ufo from "./assets/Logo ufo .svg";
 import Roll from "./assets/Logo roll.svg";
 import Payment from "./assets/payment.svg";
 import Ipsum from "./assets/Logo ipsum.svg";
-import Infinity from "./assets/Logo infinity.svg";
+import Infinity1 from "./assets/Logo infinity.svg";
 import Member from "./assets/Vector member.svg";
-import Roll1 from "./assets/Logo roll.svg";
+// import Roll1 from "./assets/Logo roll.svg";
 function TimSmithSection() {
   return (
     <>
@@ -39,7 +39,7 @@ function TimSmithSection() {
               <img className="w-full" src={Ipsum} alt="" />
             </div>
             <div className="w-[5%]">
-              <img className="w-full" src={Infinity} alt="" />
+              <img className="w-full" src={Infinity1} alt="" />
             </div>
             <div className="w-[5%]">
               <img className="w-full" src={Member} alt="" />

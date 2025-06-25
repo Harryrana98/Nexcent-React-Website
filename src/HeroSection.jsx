@@ -1,4 +1,4 @@
-import DesktopImg from "./assets/illustration.svg"
+import DesktopImg from "./assets/Illustration.svg"
 function HeroSection() {
   return (
     <>
