@@ -1,4 +1,4 @@
-import Icon from "./assets/icon.svg";
+import Icon from "./assets/Icon.svg";
 
 function CommunitySection() {
   return (
