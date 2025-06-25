@@ -5,7 +5,7 @@ import { GrSend } from "react-icons/gr";
 function Footer() {
   return (
     <>
-    <div className=" bg-[rgba(0,0,0,0.938)] py-10 px-3 flex justify-between">
+    <div className=" bg-[rgba(0,0,0,0.968)] py-10 px-3 flex justify-between">
         <div className="">
             <img  src={logo}  className="fill-white w-[100%] " alt="" />
         </div>
@@ -37,7 +37,7 @@ function Footer() {
           <div>
 
           <h3 className="font-bold">Stay up to date</h3> 
-          <input  type="text" name="" id="" placeholder="Your email address" className="text-white text-sm flex mt-1 p-2 bg-[rgba(0,0,0,0.18)]"  /><GrSend className="absolute left-40 bottom-17 text-xl"/>
+          <input  type="text" name="" id="" placeholder="Your email address" className="text-white text-sm flex mt-1 p-2 bg-[rgba(0,0,0,0.58)]"  /><GrSend className="absolute left-40 bottom-17 text-xl"/>
           </div>
         </div>
 
