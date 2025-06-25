@@ -1,4 +1,4 @@
-import logo from "./assets/Logo.svg";
+import logo from "./assets/Logonex.svg";
 import { GrSend } from "react-icons/gr";
 // import {Link} from "react-router-dom"
 
@@ -7,7 +7,7 @@ function Footer() {
     <>
     <div className=" bg-[rgba(0,0,0,0.938)] py-10 px-3 flex justify-between">
         <div className="">
-            <img  src={logo}  className="fill-white w-32" alt="" />
+            <img  src={logo}  className="fill-white w-[100%] " alt="" />
         </div>
 
         <div className="text-white">
