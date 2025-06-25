@@ -10,6 +10,7 @@ import SpendingSection from './SpendingSection.jsx'
 import ReinventSection from './ReinventSection.jsx'
 import DesignSection from './DesignSection.jsx'
 import TimSmithSection from './TimSmithSection.jsx'
+import MarketingSection from './MarketingSection.jsx'
 
 createRoot(document.getElementById('root')).render(
   <>
@@ -21,5 +22,6 @@ createRoot(document.getElementById('root')).render(
     <ReinventSection />
     <DesignSection />
     <TimSmithSection />
+    <MarketingSection />
   </>
 )
