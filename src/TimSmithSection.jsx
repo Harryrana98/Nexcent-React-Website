@@ -15,7 +15,7 @@ function TimSmithSection() {
           <img className="w-full" src={Tim} alt="" />
         </div>
 
-        <div className="w-[50%]">
+        <div className="w-[48%]">
           <p className="text-sm text-gray-500">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt
             est quia, a voluptatum minima amet quasi. Sit quos recusandae, vel

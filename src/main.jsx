@@ -11,6 +11,8 @@ import ReinventSection from './ReinventSection.jsx'
 import DesignSection from './DesignSection.jsx'
 import TimSmithSection from './TimSmithSection.jsx'
 import MarketingSection from './MarketingSection.jsx'
+import DemoSection from './DemoSection.jsx'
+import Footer from './Footer.jsx'
 
 createRoot(document.getElementById('root')).render(
   <>
@@ -23,5 +25,7 @@ createRoot(document.getElementById('root')).render(
     <DesignSection />
     <TimSmithSection />
     <MarketingSection />
+    <DemoSection />
+    <Footer />
   </>
 )
